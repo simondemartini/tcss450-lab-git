@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Lab - Git</string>
+    <string name="button_send">Other Person Activity</string>
 </resources>
